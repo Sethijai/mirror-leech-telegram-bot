@@ -1,4 +1,3 @@
-aiohttp
 aiofiles
 aioshutil
 anytree
@@ -18,11 +17,11 @@ httpx
 lxml
 motor
 natsort
+par2cmdline-turbo
 pillow
 psutil
 pymongo
-pyrogram
-python-dotenv
+pyrofork
 python-magic
 qbittorrent-api
 requests
@@ -32,4 +31,4 @@ tgcrypto
 urllib3
 uvloop
 xattr
-yt-dlp
+yt-dlp[default,curl-cffi]
